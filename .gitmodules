@@ -4,3 +4,6 @@
 [submodule "ogre"]
 	path = ogre
 	url = https://github.com/OGRECave/ogre.git
+[submodule "assimp"]
+	path = assimp
+	url = https://github.com/assimp/assimp.git
